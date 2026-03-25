@@ -1,28 +1,43 @@
-## 👋 About Me
+# 👋 About Me
+**CSUF Computer Science '26 | Security+ | AZ-900 | Splunk Certified User**
 
- **CSUF Computer Science '25** | **Splunk Certified**
-
-I'm a passionate cybersecurity professional and computer science student at Cal State Fullerton, specializing in cloud security, SIEM administration, and secure infrastructure development. Currently building expertise in threat detection, risk assessment, and cloud migration strategies.
+I'm a computer science student at Cal State Fullerton specializing in cloud security, threat detection, and secure infrastructure development. Currently building hands-on expertise in SIEM engineering, KQL detection rules, incident response, and cloud-native security architecture across Azure and GCP.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python | JavaScript | C++ | R | Assembly | SQL (SQLite, PostgreSQL) | HTML/CSS | Bash | PowerShell
+Python | JavaScript | C++ | R | Assembly | SQL (SQLite, PostgreSQL) | Bash | PowerShell | HTML/CSS
 
-**Frameworks/Tools:**  
-Flask | Docker | Terraform | Git/GitHub | Visual Studio | Azure | GCP | VMware | pgAdmin | Active Directory | YAML | Bootstrap | BeautifulSoup | Requests | Microsoft Office | PyGames | Blender | Unreal Engine | Turtle
+**Frameworks & Tools:**  
+Azure Sentinel | Splunk | KQL | Azure | GCP | Docker | Terraform | Git/GitHub | VMware | Active Directory | Flask | Visual Studio | YAML | Bootstrap
 
 **Methodologies:**  
-IaC | RBAC | Least Privilege Access | CI/CD | CVE Analysis | Secure Cloud Migration | System Hardening | Data Encryption/Decryption
+IaC | CI/CD | RBAC | Least Privilege Access | CVE Analysis | Incident Response | NIST/ISO Frameworks | System Hardening | Secure Cloud Migration | Data Encryption/Decryption | Multi-Cloud Infrastructure Management
+
+---
+
+## 📜 Certifications
+
+- CompTIA Security+
+- Microsoft Azure Fundamentals (AZ-900)
+- Splunk Core Certified User
+- Currently studying: AZ-104 Microsoft Azure Administrator
+
+---
+
+## 🎓 Education
+
+**California State University, Fullerton** — May 2026  
+Bachelor of Science in Computer Science, Cybersecurity Concentration  
+Relevant Coursework: Cybersecurity Foundations, Web Security, Network Security, Cryptography, Cloud Computing & Security, Computer Communications
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on cybersecurity projects, discussing cloud security best practices, or connecting with fellow security professionals. Feel free to explore my repositories and reach out!
+Always open to collaborating on security projects, discussing cloud security, or connecting with fellow engineers.
 
-**📧 Contact:** christopherdcontreras@gmail.com  
-**💼 LinkedIn:** [christopher-d-contreras](https://linkedin.com/in/christopher-d-contreras)
-
+**📧** christopherdcontreras@gmail.com  
+**💼** [linkedin.com/in/christopher-d-contreras](https://linkedin.com/in/christopher-d-contreras)
