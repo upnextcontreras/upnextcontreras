@@ -23,6 +23,6 @@ IaC | RBAC | Least Privilege Access | CI/CD | CVE Analysis | Secure Cloud Migrat
 
 I'm always interested in collaborating on cybersecurity projects, discussing cloud security best practices, or connecting with fellow security professionals. Feel free to explore my repositories and reach out!
 
-**📧 Contact:** cdcontreras139@gmail.com  
+**📧 Contact:** christopherdcontreras@gmail.com  
 **💼 LinkedIn:** [christopher-d-contreras](https://linkedin.com/in/christopher-d-contreras)
 
